@@ -1,0 +1,8 @@
+
+track gene_prediction_maker
+bigDataUrl rnabb/buds0.bb
+shortLabel buds_pre
+longLabel buds_pre reads track
+type bigGenePred
+visibility hide 
+colorByStrand 64,224,208 250,128,114

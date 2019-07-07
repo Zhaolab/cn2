@@ -1,0 +1,10 @@
+genome cn2
+trackDb cn2/trackDb.txt
+groups groups.txt
+description Feb. 2018 strain JU1421
+twoBitPath cn2/cn2.2bit
+organism Caenorhabditis Nigoni
+defaultPos cniI:1000000-1005000
+orderKey 4700
+scientificName Caenorhabditis nigoni
+htmlPath cn2/cn2_desc.html

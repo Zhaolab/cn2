@@ -1,0 +1,6 @@
+hub cn2_genome
+shortLabel cn2 
+longLabel c_nigoni_genome_2
+genomesFile genomes.txt
+descriptionUrl cn2.html
+email runsheng.lee@gmail.com
