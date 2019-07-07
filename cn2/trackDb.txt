@@ -1,8 +1,8 @@
 
 track gene_prediction_maker
-bigDataUrl rnabb/buds0.bb
+bigDataUrl gene.bb
 shortLabel genes_maker
 longLabel track for maker gene prediction
 type bigGenePred
-visibility hide 
+visibility full
 colorByStrand 64,224,208 250,128,114
